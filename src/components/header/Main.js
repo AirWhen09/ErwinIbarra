@@ -5,7 +5,6 @@ import l06 from '../../assets/shapes/3.svg';
 import l08 from '../../assets/shapes/9.svg';
 import l09 from '../../assets/shapes/3.svg';
 import l10 from '../../assets/shapes/4.svg';
-import l11 from '../../assets/shapes/9.svg';
 import l12 from '../../assets/shapes/2.svg';
 import l13 from '../../assets/shapes/5.svg';
 import l14 from '../../assets/shapes/9.svg';
@@ -32,7 +31,6 @@ const Main = () => {
       <span className="eight anim_scale"><img className="svg" src={l08} alt="" /></span>
       <span className="nine anim_circle"><img className="svg" src={l09} alt="" /></span>
       <span className="ten anim_moveLeft"><img className="svg" src={l10} alt="" /></span>
-      <span className="eleven anim_scale"><img className="svg" src={l11} alt="" /></span>
       <span className="twelve anim_extra"><img className="svg" src={l12} alt="" /></span>
       <span className="thirteen anim_circle"><img className="svg" src={l13} alt="" /></span>
       <span className="fourteen anim_scale"><img className="svg" src={l14} alt="" /></span>
@@ -47,10 +45,10 @@ const Main = () => {
 
 
       <div className="container mt-2 col-sm-7">
-          <p className="fs-5">Hello, I'm</p>
-          <h1 className="name">Erwin Ibarra.</h1>
-          <p className="text-mute fs-4">Say Hi to the right side of my Brain !</p>
-          <p className="text-mute">I'm a Fullstack Web Developer by Profession & Hobby.</p>
+          <p className="fs-3">Hi!</p>
+          <h1 className="name">I'm Erwin Ibarra</h1>
+          <p className="text-mute fs-4">A Fullstack Web Developer,</p>
+          <p className="text-mute"> and welcome to my other world.</p>
       </div>
 
       <div className="right col-sm-3">
