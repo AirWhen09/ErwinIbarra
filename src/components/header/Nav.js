@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     
     <header>
-      <Link className='navList logo p-5' to="/">
+      <Link className='navList logo p-5' to="/ErwinIbarra">
           <p ><span className='text-default'>Air</span><i>When</i></p>
       </Link>
     <ul>
