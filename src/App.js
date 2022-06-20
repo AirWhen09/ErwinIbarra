@@ -12,10 +12,10 @@ function App() {
       <Router>
         <Header/>
         <Routes>
-            <Route path="/" element={<Home/>} />
-            <Route path="/AboutMe" element={<AboutMe/>} />
-            <Route path="/Project" element={<Project/>} />
-            <Route path="/Skill" element={<Skill/>}/>
+            <Route path="/ErwinIbarra/" element={<Home/>} />
+            <Route path="/ErwinIbarra/AboutMe" element={<AboutMe/>} />
+            <Route path="/ErwinIbarra/Project" element={<Project/>} />
+            <Route path="/ErwinIbarra/Skill" element={<Skill/>}/>
         </Routes>
       </Router>
     
