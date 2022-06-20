@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ErwinIbarra/static/css/main.2a57836b.css",
+    "main.js": "/ErwinIbarra/static/js/main.43fbd816.js",
+    "static/js/787.9df07cc1.chunk.js": "/ErwinIbarra/static/js/787.9df07cc1.chunk.js",
+    "static/media/BookWorm.PNG": "/ErwinIbarra/static/media/BookWorm.4857c09237487e60e3ae.PNG",
+    "static/media/doctor.PNG": "/ErwinIbarra/static/media/doctor.72bc40d0f418b14a0f2e.PNG",
+    "static/media/me.jpg": "/ErwinIbarra/static/media/me.a7e5ac3fda7808566607.jpg",
+    "static/media/mass.PNG": "/ErwinIbarra/static/media/mass.d3c9b0e52e4cebb1b8c1.PNG",
+    "static/media/journal.PNG": "/ErwinIbarra/static/media/journal.279a509ad575ab4bf62a.PNG",
+    "static/media/calculator.PNG": "/ErwinIbarra/static/media/calculator.89781b7c6a2b1d5c20f4.PNG",
+    "index.html": "/ErwinIbarra/index.html",
+    "static/media/dot.svg": "/ErwinIbarra/static/media/dot.c2ad6bc4e15101a8adbc70424fdde2fd.svg",
+    "static/media/4.svg": "/ErwinIbarra/static/media/4.35509bdb92ab448e2abe2ae13321f4d0.svg",
+    "static/media/1.svg": "/ErwinIbarra/static/media/1.77a0cd903d375e7503424194ff8d2bb4.svg",
+    "static/media/3.svg": "/ErwinIbarra/static/media/3.4fed45a7eea8f596ee572f85f77e93d2.svg",
+    "static/media/9.svg": "/ErwinIbarra/static/media/9.4aa2c039c080f8e15c6c7efdd7265b3e.svg",
+    "static/media/2.svg": "/ErwinIbarra/static/media/2.8dbd1b5e31a477af6828fccbdcf1c058.svg",
+    "static/media/5.svg": "/ErwinIbarra/static/media/5.8f32eada64e20b1fbc5a21618ca40a4d.svg",
+    "main.2a57836b.css.map": "/ErwinIbarra/static/css/main.2a57836b.css.map",
+    "main.43fbd816.js.map": "/ErwinIbarra/static/js/main.43fbd816.js.map",
+    "787.9df07cc1.chunk.js.map": "/ErwinIbarra/static/js/787.9df07cc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a57836b.css",
+    "static/js/main.43fbd816.js"
+  ]
+}
