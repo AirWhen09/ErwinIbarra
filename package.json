@@ -1,5 +1,4 @@
-{
-  "homepage": "https://AirWhen09.github.io/AirWhen",
+{  
   "name": "erwin",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +13,8 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.5",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "homepage": "https://AirWhen09.github.io/ErwinIbarra"
   },
   "scripts": {
     "predeploy": "npm run build",

@@ -60,7 +60,7 @@ const Project = () => {
                 <div className='col-md-4 d-flex flex-column mt-3 '>
                     <div className='container-fluid shadow p-3 '>
                     <img src={journal} alt="" className='img-fluid border border-primary'/>
-                    <h5 className='my-3 text-primary text-center'>Codding Journal</h5>
+                    <h5 className='my-3 text-primary text-center'>Coding Journal</h5>
                        <div className='row'>
                           <a href='https://github.com/AirWhen09/CoddingJournal/tree/master' className='btn btn-primary col-6'>View Code</a>
                           <a href='https://airwhen09.github.io/CoddingJournal/' className='btn btn-success col-6'>View Website</a>
