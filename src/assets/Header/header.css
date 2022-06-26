@@ -1,3 +1,6 @@
+.eportfolio{
+    max-width: 100%;
+}
 .main{
     height: 100vh;
 }
@@ -111,6 +114,8 @@ main{
 }
 
 main > .right > .bg-shape{
+    border-radius: 20px;
+
     position: absolute;
     background-color: #1363DF;
     z-index: -100;
@@ -525,7 +530,6 @@ main > .right > .bg-shape{
     main > .right > .bg-shape{
         height: 0px;
         width: 0px;
-        border-radius: 20px;
 
     }
     .social, .simple_shapes{
@@ -536,7 +540,7 @@ main > .right > .bg-shape{
 @media screen and (min-width: 581px) and (max-width: 767px){
     main > .right > .bg-shape{
         height: 7rem;
-        width: 7rem;
+        width: 105px;
     }
 
      .simple_shapes{
@@ -549,6 +553,7 @@ main > .right > .bg-shape{
     main > .right > .bg-shape{
         height: 9rem;
         width: 9rem;
+        border: #1363DF solid 5px;
     }
 }
 
@@ -562,10 +567,18 @@ main > .right > .bg-shape{
 
 @media screen and (min-width: 1200px){
     main > .right > .bg-shape{
-        height: 17rem;
-        width: 15rem;
+        height: 16rem;
+        width: 16rem;
     }
 }
+
+@media screen and (min-width: 1400px){
+    main > .right > .bg-shape{
+        height: 20rem;
+        width: 18rem;
+    }
+}
+
 
 @keyframes animeRotate {
     0% {

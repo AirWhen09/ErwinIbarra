@@ -11,7 +11,7 @@ AOS.init();
 
 const Header = () => {
   return (
-    <div className="container-fluid">
+    <div className="eportfolio">
       <div className="right-container">
       </div>
       <div data-aos="fade-up"

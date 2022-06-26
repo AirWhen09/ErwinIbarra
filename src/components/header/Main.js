@@ -52,7 +52,7 @@ const Main = () => {
       </div>
 
       <div className="right col-sm-3">
-          <div className="bg-shape rounded-5 img-fluid"></div>
+          <div className="bg-shape img-fluid"></div>
           <img src={mypic} className="img-fluid rounded-5" alt="" />
       </div>
       </main>
