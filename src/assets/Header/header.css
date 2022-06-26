@@ -1,5 +1,5 @@
 .eportfolio{
-    max-width: 100%;
+   width: 100%;
 }
 .main{
     height: 100vh;
@@ -579,6 +579,23 @@ main > .right > .bg-shape{
     }
 }
 
+@media only screen and (min-width: 600px) {
+    html {
+      zoom: .8;
+    }
+  }
+
+  @media only screen and (min-width: 800px) {
+    html {
+      zoom: .9;        
+    }
+  }
+
+  @media only screen and (min-width: 1000px) {
+    html {
+      zoom: 1;
+    }
+  }
 
 @keyframes animeRotate {
     0% {
