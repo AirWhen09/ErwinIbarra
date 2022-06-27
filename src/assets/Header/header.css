@@ -17,6 +17,10 @@ body{
     overflow: hidden;
 }
 
+.font-name{
+    font-size: 50px;
+}
+
 .right-container{
     position: absolute;
     height: 100vh;

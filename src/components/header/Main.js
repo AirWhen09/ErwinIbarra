@@ -45,10 +45,9 @@ const Main = () => {
 
 
       <div className="container mt-2 col-sm-7">
-          <p className="fs-3">Hi!</p>
-          <h1 className="name">I'm Erwin Ibarra</h1>
-          <p className="text-mute fs-4">A Fullstack Web Developer,</p>
-          <p className="text-mute"> and welcome to my other world.</p>
+          <p className="fs-1">Hi!</p>
+          <h1 className="name font-name">I'm Erwin Ibarra.</h1>
+          <p className="text-mute font-name">Full Stack Web Developer</p>
       </div>
 
       <div className="right col-sm-3">
